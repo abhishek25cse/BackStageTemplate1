@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: BackStageTemplate1
+  annotations:
+    github.com/project-slug: abhishek25cse/BackStageTemplate1
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
